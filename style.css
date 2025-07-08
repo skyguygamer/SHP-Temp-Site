@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(218, 160, 53);
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: white;
+}
+
+.container {
+  padding-top: 60px;
+}
+
+img.logo {
+  display: block;
+  margin: 0 auto 30px auto;
+  max-width: 200px;
+  height: auto;
+}
+
+img.photo {
+  max-width: 40%;
+  height: auto;
+  margin-top: 30px;
+  border: 10px solid #d58d29;
+}
+
+.gfm {
+  display: block;
+  margin: 40px auto 0 auto;
+  width: 150px;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+p {
+  margin-top: 0;
+}
